@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project 4\\Project4_DivivuExpress_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\dataaccesslayer\\interfaces\\i_taikhoanresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\i_taikhoanresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\dataaccesslayer\\taikhoanresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\taikhoanresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA813C5B-8A37-4755-96FC-ECCA9F88D188}|API_DivivuExpress\\API_DivivuExpress.csproj|e:\\project 4\\project4_divivuexpress_api\\api_divivuexpress\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA813C5B-8A37-4755-96FC-ECCA9F88D188}|API_DivivuExpress\\API_DivivuExpress.csproj|solutionrelative:api_divivuexpress\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA813C5B-8A37-4755-96FC-ECCA9F88D188}|API_DivivuExpress\\API_DivivuExpress.csproj|e:\\project 4\\project4_divivuexpress_api\\api_divivuexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA813C5B-8A37-4755-96FC-ECCA9F88D188}|API_DivivuExpress\\API_DivivuExpress.csproj|solutionrelative:api_divivuexpress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB8E863-C220-4707-A071-5368BB11693C}|BussinessLayer\\BussinessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\bussinesslayer\\taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB8E863-C220-4707-A071-5368BB11693C}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB8E863-C220-4707-A071-5368BB11693C}|BussinessLayer\\BussinessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\bussinesslayer\\interfaces\\i_taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB8E863-C220-4707-A071-5368BB11693C}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\interfaces\\i_taikhoanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037F4146-33F5-4EB3-9C66-2564B9F9DEB6}|Model\\Model.csproj|e:\\project 4\\project4_divivuexpress_api\\model\\taikhoanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037F4146-33F5-4EB3-9C66-2564B9F9DEB6}|Model\\Model.csproj|solutionrelative:model\\taikhoanmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\dataaccesslayer\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|e:\\project 4\\project4_divivuexpress_api\\dataaccesslayer\\helper\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E8FA36-126A-41E4-BC18-9729989BBA7D}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\helper\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 133,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\API_DivivuExpress\\Program.cs",
+              "RelativeDocumentMoniker": "API_DivivuExpress\\Program.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\API_DivivuExpress\\Program.cs",
+              "RelativeToolTip": "API_DivivuExpress\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:20:46.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "taiKhoanController.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\API_DivivuExpress\\Controllers\\taiKhoanController.cs",
+              "RelativeDocumentMoniker": "API_DivivuExpress\\Controllers\\taiKhoanController.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\API_DivivuExpress\\Controllers\\taiKhoanController.cs",
+              "RelativeToolTip": "API_DivivuExpress\\Controllers\\taiKhoanController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:15:15.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "taiKhoanBUS.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\BussinessLayer\\taiKhoanBUS.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\taiKhoanBUS.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\BussinessLayer\\taiKhoanBUS.cs",
+              "RelativeToolTip": "BussinessLayer\\taiKhoanBUS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:08:40.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "I_taiKhoanBUS.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\BussinessLayer\\Interfaces\\I_taiKhoanBUS.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Interfaces\\I_taiKhoanBUS.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\BussinessLayer\\Interfaces\\I_taiKhoanBUS.cs",
+              "RelativeToolTip": "BussinessLayer\\Interfaces\\I_taiKhoanBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:06:19.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Helper\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Helper\\DatabaseHelper.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Helper\\DatabaseHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\Helper\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:33:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollectionHelper.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Helper\\CollectionHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Helper\\CollectionHelper.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Helper\\CollectionHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\Helper\\CollectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T07:33:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "taiKhoanResponsitory.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\taiKhoanResponsitory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\taiKhoanResponsitory.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\taiKhoanResponsitory.cs",
+              "RelativeToolTip": "DataAccessLayer\\taiKhoanResponsitory.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:30:38.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "I_taiKhoanResponsitory.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Interfaces\\I_taiKhoanResponsitory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\I_taiKhoanResponsitory.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\DataAccessLayer\\Interfaces\\I_taiKhoanResponsitory.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\I_taiKhoanResponsitory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:27:57.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "taiKhoanModel.cs",
+              "DocumentMoniker": "E:\\Project 4\\Project4_DivivuExpress_API\\Model\\taiKhoanModel.cs",
+              "RelativeDocumentMoniker": "Model\\taiKhoanModel.cs",
+              "ToolTip": "E:\\Project 4\\Project4_DivivuExpress_API\\Model\\taiKhoanModel.cs",
+              "RelativeToolTip": "Model\\taiKhoanModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T06:11:31.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
